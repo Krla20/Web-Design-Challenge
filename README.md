@@ -38,3 +38,5 @@ Web page [Weather/Latitude Analysis](https://krla20.github.io/Web-Design-Challen
   2. Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
   3. Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
   4. Is responsive (using media queries). The nav must have similar behavior as the screenshots "Navigation Menu" section (notice the background color change).
+  
+     [SmallScreen_dropdown](https://github.com/Krla20/Web-Design-Challenge/blob/main/Images/navigation_smallscreen.PNG)
