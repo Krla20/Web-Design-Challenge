@@ -1,0 +1,98 @@
+img {
+    max-width: 100%;
+  }
+  
+  #imgsel{
+    border: rgb(38, 22, 92) 2px solid;
+  }
+  
+  h1, h2, h3, h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman';
+    color: rgb(38, 22, 92);
+  }
+  
+  h1{
+    font-size: 24px;
+    font-weight: bold;
+    text-align:left;
+  }
+  
+  h2{
+    font-size: 22px;
+    font-weight: bold;
+    text-align:left;
+  }
+  
+  h3{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  h4{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  p{
+    color: gray;
+    text-align:left;
+  }
+  
+  .navbar{
+      position: absolute;
+      right: 30px;
+  }
+  
+  .navbar a{
+    background-color:white;
+  }
+  
+  body {
+    width: 100%;
+    min-height:100%;
+    background-color: lightgray;
+  }
+  
+  .col {
+    width: 100%;
+    /* border: black 1px solid; */
+    /* Font color */
+    /* color:blue;  */
+  } 
+  
+  .homebutton{
+    background-color: white;
+    z-index:2;
+  }
+  
+  .homebutton a{
+    width: 110px;
+    background: rgb(126, 116, 161);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    display: block;
+    padding: 14px;
+    margin: 0px 0px 0px 40px;
+  }
+  
+  .divtop{
+    background-color: white;
+    z-index:2;
+  }
+  
+  .divbody{
+    background-color: white;
+    text-align: center;
+    z-index:1;
+  }
+  
+  .divtable{
+    text-align:center;
+    background-color: white;
+    z-index:1;
+  }
