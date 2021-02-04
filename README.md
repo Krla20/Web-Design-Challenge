@@ -1,5 +1,6 @@
 # Web-Design-Challenge
-Web page [Weather/Latitude Analysis](https://krla20.github.io/Web-Design-Challenge/index.html)
+Web page [Weather/Latitude Analysis](https://krla20.github.io/Web-Design-Challenge/)
+       ![alt_text](https://krla20.github.io/Web-Design-Challenge/)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
   * I used the cities.csv from my previous project and pictures from the [Python-API-Challenge](https://github.com/Krla20/python-api-challenge) not the data or pictures provided,     also, I changed the colors of my webpage from <sup>lightseagreen</sup> to <sup>purple</sup> .
